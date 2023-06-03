@@ -4,4 +4,4 @@
 2. Then go to the Xammp folder and direct yourself to the htdoc folder where all your projects will be stored
 3. Once u have your project folders and files created open it in chrome using the directory
 localhost/(followed by the directory)
-in this case it would be http://localhost/ITT_game/Random_generator/index.php
+in this case it would be http://localhost/ITT_game/timer/timer.php
